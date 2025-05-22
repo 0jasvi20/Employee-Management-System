@@ -36,3 +36,7 @@ This project is a React-based Employee Task Management Dashboard designed to hel
       Employees log in to view and manage their tasks.
       Task statuses are updated and visible to both admin and employees.
       All changes are saved in localStorage, ensuring data is not lost on refresh.
+
+#Screenshot
+
+![image alt]
